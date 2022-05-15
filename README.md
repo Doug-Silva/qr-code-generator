@@ -5,11 +5,11 @@
     <a href='#voltar-topo'><img src="./assets/img/logo-projeto.jpg" alt="Logotipo do projeto" height="140" width="260"></a>
   </div><br>
 
-  <h1>YouTube Clone Page</h1>
-  <p>Página clone de um canal do YouTube feita em HTML, CSS, JavaScript, onde o usuário pode adicionar os vídeos na lista de reprodução</p>
+  <h1>QRCode Generator</h1>
+  <p>Um gerador de QRCode em JavaScript, utilizando o consumo de uma API para a realização deste projeto</p>
 
   <div>
-    <a href="https://github.com/Doug-Silva/youtube-clone-page/blob/main/LICENSE"><img src="https://img.shields.io/npm/l/react" alt="License MIT"></a>
+    <a href="https://github.com/Doug-Silva/qr-code-generator/blob/main/LICENSE"><img src="https://img.shields.io/npm/l/react" alt="License MIT"></a>
   </div><br>
 
   <!--Adicionar imagem/gif do projeto aqui-->
