@@ -19,7 +19,7 @@
 </div>
 
   ## 🚀 Iniciar
-  Para iniciar o projeto, basta abrir o arquivo "index.html" em seu navegador preferido.
+  Para visualizar a pagina web, basta fazer o download ou git clone do repositório, e abrir o arquivo "index.html" em seu navegador preferido.
   
   ## 🔨 Seja um dos contribuidores<br>
   Quer fazer parte desse projeto? Clique [AQUI](CONTRIBUTING.md) e leia como contribuir.
