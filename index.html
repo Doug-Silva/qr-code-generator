@@ -10,9 +10,6 @@
         <!-- CSS -->
         <link rel="stylesheet" type="text/css" href="./assets/css/style.css">
 
-        <!-- JavaScript -->
-        <script src="./assets/js/script.js"></script>
-
         <!-- Icone da página -->
         <link rel="shortcut icon" type="imagem/x-icon" href="./assets/img/favicon.ico"/>
 
@@ -21,7 +18,25 @@
     </head>
 
     <body>
-        <h1>teste</h1>
-    </body>
+        <div class="wrapper">
+            <div class="header-form">
+                <div class="header">
+                    <h1>Gerador de QRCode</h1>
+                    <p>Cole a URL desejada: </p>
+                </div>
 
+                <div class="form">
+                    <input type="text" placeholder="Insira a URL" name="" id="inputValue">
+                    <button id="btnValue" >Gerar QRcode</button>
+                </div>
+            </div>
+
+            <div class="qr-code">
+                <img src="./assets/img/qr-code.png" id="imgQrCode" alt="">
+            </div>
+        </div>
+
+        <!-- JavaScript -->
+        <script src="./assets/js/script.js"></script>
+    </body>
 </html>
