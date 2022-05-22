@@ -19,7 +19,7 @@
 </div>
 
   ## 🚀 Iniciar
-  - Link da aplicação no GitHub Pages: 
+  - Link da aplicação no GitHub Pages: https://doug-silva.github.io/qr-code-generator
   
   ## 🔨 Seja um dos contribuidores<br>
   Quer fazer parte desse projeto? Clique [AQUI](CONTRIBUTING.md) e leia como contribuir.
