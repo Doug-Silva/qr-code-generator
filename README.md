@@ -14,12 +14,12 @@
 
   <!--Adicionar imagem/gif do projeto aqui-->
   <div style="width:30%">
-    <a href='#voltar-topo'><img src="./assets/img/tela-inicio-projeto.gif" style="width:100%" alt="Imagem do projeto"></a>   
+    <a href='#voltar-topo'><img src="./assets/img/tela-inicio-projeto.jpg" style="width:100%" alt="Imagem do projeto"></a>   
   </div><hr>
 </div>
 
   ## 🚀 Iniciar
-  Para visualizar a pagina web, basta fazer o download ou git clone do repositório, e abrir o arquivo "index.html" em seu navegador preferido.
+  - Link da aplicação no GitHub Pages: 
   
   ## 🔨 Seja um dos contribuidores<br>
   Quer fazer parte desse projeto? Clique [AQUI](CONTRIBUTING.md) e leia como contribuir.
